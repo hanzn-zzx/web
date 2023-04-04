@@ -1,0 +1,9 @@
+{
+  "name": "personal_website",
+  "version": "1.0.0",
+  "description": " my website",
+  "main": "index.js",
+  "repository": "https://github.com/hanzn-zzx/personal-website.git",
+  "author": "hanzn-zzx <1394753132@qq.com>",
+  "license": "MIT"
+}
