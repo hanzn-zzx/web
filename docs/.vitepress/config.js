@@ -10,18 +10,18 @@ export default {
 		socialLinks: [
 			{ icon: 'github', link: 'https://github.com/hanzn-zzx' }
 		],
-		footer: {
-			message: 'hanzn-zzx',
+		sidebar: [
+			{ text: '首页', link: '/' },
+		],
+		outlineTitle: '页面目录',
+		docFooter: {
+			prev: '上一页',
+			next: '下一页'
+		},
+		returnToTopLabel: '返回顶部',
+		footer:{
+			message:'hanzn-zzx，一个初二学生，deepin用户'
 		}
-	},
-	sidebar: [
-		{ text: '首页', link: '/' },
-	],
-	outlineTitle: '页面目录',
-	docFooter: {
-		prev: '上一页',
-		next: '下一页'
-	},
-	returnToTopLabel: '返回顶部'
+	},	
 }
 
