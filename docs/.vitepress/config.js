@@ -18,5 +18,10 @@ export default {
 		{ text: '首页', link: '/' },
 	],
 	outlineTitle: '页面目录'
+	docFooter: {
+		prev: '上一页',
+		next: '下一页'
+	}
+	returnToTopLabel: '返回顶部'
 }
 
