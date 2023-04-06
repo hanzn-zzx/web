@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: 16
           cache: yarn
-      - run: yarn install -D vitepress
+      - run: yarn add -D vitepress
       - name: Build
         run: yarn docs:build
       - uses: actions/configure-pages@v2
