@@ -24,10 +24,3 @@ jobs:
       - run: yarn add -D vitepress
       - name: Build
         run: yarn docs:build
-      - uses: actions/configure-pages@v2
-      - uses: actions/upload-pages-artifact@v1
-        with:
-          path: docs/.vitepress/dist
-      - name: Deploy
-        id: deployment
-        uses: actions/deploy-pages@v1
