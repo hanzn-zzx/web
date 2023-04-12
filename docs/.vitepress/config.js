@@ -2,6 +2,7 @@ export default {
 	title: 'hanzn-zzx的个人首页', 
 	description: 'hanzn-zzx的个人静态网站', 
 	lang: 'zh-CN',
+	base: "/personal-website/",
 	themeConfig: {
 		siteTitle: 'hanzn-zzx',
 		nav: [
