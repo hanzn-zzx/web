@@ -12,7 +12,12 @@ export default {
 			{ icon: 'github', link: 'https://github.com/hanzn-zzx' }
 		],
 		sidebar: [
-			{ text: '首页', link: '/' },
+			{ text: '主导航'
+			  items: [
+				{ text: '首页', link: '/'},
+				{ text: '文档主页',link: '/home'}
+			  ]
+			},
 			{ text: '班会资料', link:'/class-meeting'}
 		],
 		outlineTitle: '页面目录',
