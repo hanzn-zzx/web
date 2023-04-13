@@ -27,10 +27,10 @@ export default {
 		},
 		returnToTopLabel: '返回顶部',
 		darkModeSwitchLabel: '外观',
-		sidebarMenuLabel: '导航栏'
+		sidebarMenuLabel: '导航栏',
 		footer:{
 			message:'hanzn-zzx，一个初二学生，deepin用户'
-		}
+		},
 	},	
 }
 
