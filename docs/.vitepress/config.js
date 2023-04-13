@@ -13,6 +13,7 @@ export default {
 		],
 		sidebar: [
 			{ text: '首页', link: '/' },
+			{ text: '班会资料', link:'/class-meeting'}
 		],
 		outlineTitle: '页面目录',
 		docFooter: {
@@ -20,6 +21,8 @@ export default {
 			next: '下一页'
 		},
 		returnToTopLabel: '返回顶部',
+		darkModeSwitchLabel: '外观',
+		sidebarMenuLabel: '导航栏'
 		footer:{
 			message:'hanzn-zzx，一个初二学生，deepin用户'
 		}
