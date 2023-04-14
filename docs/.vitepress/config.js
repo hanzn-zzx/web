@@ -17,8 +17,7 @@ export default {
 				{ text: '首页', link: '/'},
 				{ text: '文档主页',link: '/home'}
 			  ]
-			},
-			{ text: '班会资料', link:'/class-meeting'}
+			}
 		],
 		outlineTitle: '页面目录',
 		docFooter: {
