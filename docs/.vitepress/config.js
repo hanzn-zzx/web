@@ -16,6 +16,7 @@ export default {
 			{ text: 'deepin常用资源整理',link: '/deepin-src-col'}
 		],
 		outlineTitle: '页面目录',
+		outline: [2, 4], 
 		docFooter: {
 			prev: '上一页',
 			next: '下一页'
