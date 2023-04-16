@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,O as o}from"./chunks/framework.b736e77e.js";const z=JSON.parse('{"title":"hanzn-zzx的个人静态站点","description":"","frontmatter":{},"headers":[],"relativePath":"home.md"}'),n={name:"home.md"},r=o("",7),s=[r];function c(i,h,_,l,d,p){return t(),e("div",null,s)}const u=a(n,[["render",c]]);export{z as __pageData,u as default};

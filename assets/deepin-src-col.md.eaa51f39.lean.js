@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,O as a}from"./chunks/framework.b736e77e.js";const u=JSON.parse('{"title":"deepin 常用资源整理","description":"","frontmatter":{},"headers":[],"relativePath":"deepin-src-col.md"}'),o={name:"deepin-src-col.md"},n=a("",7),i=[n];function s(l,c,p,d,_,h){return t(),r("div",null,i)}const m=e(o,[["render",s]]);export{u as __pageData,m as default};
