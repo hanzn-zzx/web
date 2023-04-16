@@ -2,7 +2,7 @@ export default {
 	title: 'hanzn-zzx的个人首页', 
 	description: 'hanzn-zzx的个人静态网站', 
 	lang: 'zh-CN',
-	base: "/personal-website/",
+	base: "/web/",
 	themeConfig: {
 		siteTitle: 'hanzn-zzx',
 		nav: [
@@ -12,12 +12,8 @@ export default {
 			{ icon: 'github', link: 'https://github.com/hanzn-zzx' }
 		],
 		sidebar: [
-			{ text: '主导航',
-			  items: [
-				{ text: '首页', link: '/'},
-				{ text: '文档主页',link: '/home'}
-			  ]
-			}
+			{ text: '文档主页',link: '/home'},
+			{ text: 'deepin常用资源整理',link: '/deepin-src-col'}
 		],
 		outlineTitle: '页面目录',
 		docFooter: {
